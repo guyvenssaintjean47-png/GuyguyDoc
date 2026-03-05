@@ -1,0 +1,19 @@
+# Fichiers compilés
+*.class
+target/
+build/
+dist/
+
+# IDEs
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+nbproject/private/
+*.orig
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
